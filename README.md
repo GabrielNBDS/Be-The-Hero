@@ -17,42 +17,42 @@
 
 <h2 align="center">Após a ONG se cadastrar, aparecerá um "alert" dizendo seu ID de acesso.</h2>
 <p align="center">
-  <img width=1280 src="./readme_assets/2.png"/>
+  <img width=1280 src="./readme_assets/2.PNG"/>
 </p>
 
 <h2 align="center">Com esse ID, a ong poderá realizar login.</h2>
 <p align="center">
-  <img width=1280 src="./readme_assets/3.png"/>
+  <img width=1280 src="./readme_assets/3.PNG"/>
 </p>
 
 <h2 align="center">Logada, a ONG terá duas opções, registrar um novo caso ou realizar logoff.</h2>
 <p align="center">
-  <img width=1280 src="./readme_assets/4.png"/>
+  <img width=1280 src="./readme_assets/4.PNG"/>
 </p>
 
 <h2 align="center">Para registrar um novo caso é necessário um título, uma descrição e um valor. </h2>
 <p align="center">
-  <img width=1280 src="./readme_assets/5.png"/>
+  <img width=1280 src="./readme_assets/5.PNG"/>
 </p>
 
 <h2 align="center">Quando o caso estiver registrado ele será exibido no página home com a opção de exclui-lo. </h2>
 <p align="center">
-  <img width=1280 src="./readme_assets/6.png"/>
+  <img width=1280 src="./readme_assets/6.PNG"/>
 </p>
 
 <h2 align="center">Já na home do aplicativo mobile aparecerá os casos de todas as ONGS. </h2>
 <p align="center">
-  <img src="./readme_assets/7.png"/>
+  <img src="./readme_assets/7.PNG"/>
 </p>
 
 <h2 align="center">Ao clicar em "ver mais detalhes" o usuário será redirecionado para uma tela onde ele poderá entrar em contato com a ONG. </h2>
 <p align="center">
-  <img src="./readme_assets/8.png"/>
+  <img src="./readme_assets/8.PNG"/>
 </p>
 
 <h2 align="center">Ao clicar na opção do E-mail ou do Whatsapp abrirá o respectivo aplicativo já no contato da ONG e com uma mensagem padrão. </h2>
 <p align="center">
-  <img src="./readme_assets/9.png"/>
+  <img src="./readme_assets/9.PNG"/>
 </p>
 
 # Para rodar no seu computador:
